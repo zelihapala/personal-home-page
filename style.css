@@ -364,3 +364,7 @@ h1 {
 .jest-lite-report__errors {
   display: none;
 }
+#list{
+  display: flex;
+    flex-direction: column;
+}
